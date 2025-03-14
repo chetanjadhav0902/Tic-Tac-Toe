@@ -13,6 +13,6 @@ New button to replay the game.
 
 # Technologies Used
 <span style ="color:red">HTML</span>  
-<span style="color:green">CSS </span>
+<span style="color:green">CSS </span>  
 <span style="color:yellow">JavaScript</span>
 

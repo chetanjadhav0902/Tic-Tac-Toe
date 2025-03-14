@@ -12,6 +12,6 @@ Reset button to restart the game.
 New button to replay the game.  
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+<h6 <style>color:"red">HTML</h6>  
+CSS  
+JavaScript  
